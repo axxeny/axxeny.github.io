@@ -21,7 +21,7 @@ I am a software engineer, a finance hobbyist and a very curious person.
 ## How to reach you?
 
 - Please write to me [on Telegram](https://t.me/axxeny)
-- Or scroll through my photos [https://instagram.com/axxeny](on Instagram)
+- Or scroll through my photos [on Instagram](https://instagram.com/axxeny)
 - And add me as a friend [on Facebook](https://facebook.com/axxeny)
 - Read my code [on GitHub](https://github.com/axxeny) (for example the [latinoslav repo](https://github.com/axxeny/latinoslav))
 - Find my CV [on LinkedIn](https://linkedin.com/in/axxeny)
