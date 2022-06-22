@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## A warm welcome to Arseniy Poroshin's page 💙
 
-You can use the [editor on GitHub](https://github.com/axxeny/axxeny.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a software engineer, a finance hobbyist and a very curious person.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What do you do professionally?
 
-### Markdown
+- 🐍 I am a polyglot engineer, currently mostly specialized on Python.
+- 📈 I have completed many projects in backend engineering and software infrastructure.
+- 👀 I’m interested in finance, and the very best engineering practices.
+- 🌱 I learn whatever I need for the interesting tasks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is it that you care about?
 
-```markdown
-Syntax highlighted code block
+- 🧑‍🌾 I would love our society to put more into longevity research. No, overpopulation is a separate issue. No, if you are scared of boredom—it is a separate issue as well. Let us defeat aging! More info: https://youtu.be/fX9P1xuIJGg
+- 🎲 I love the probability theory. For example, when considering a distribution of outcomes, pay attention to how catastrophic the worst cases are. Here is a little primer on how to not over-bet on seemingly positive expected return: https://en.wikipedia.org/wiki/Kelly_criterion
+- 📈 I am a trading & finance hobbyist. Former Quantitative analysis student at CMF: https://iqf.hse.ru/cmf .
+- あ I love learning languages. Learning new sounds, new alphabets, and new ways of how grammar can work is so much fun to me!
+- 🏞 I love trekking. What could be better than a lovely day hike at 2,000 m high in Armenia?
+- 🕊 I am a fan of peace and liberty. I have seen the neighbours enjoying living with each other many times. Let us nourish love to each other!
 
-# Header 1
-## Header 2
-### Header 3
+## How to reach you?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/axxeny/axxeny.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Please write to me on Telegram: https://t.me/axxeny
+- Or scroll through my photos on Instagram: https://instagram.com/axxeny
+- And add me as a friend on Facebook: https://facebook.com/axxeny
+- Read my code on GitHub (e.g. `latinoslav` repo): https://github.com/axxeny
+- Find my CV on LinkedIn: https://linkedin.com/in/axxeny
