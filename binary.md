@@ -40,9 +40,10 @@ Another option is to name each of the shorts within an overlong range can be nam
 * septishort
 * overlong
 
-# Units
+## Units
 Reforming SI is very hard.
 
+### Easy approach -- keep as is
 The easiest approach is just to keep 7 basic units: second, metre, kilogram, ampere, candela, mol, kelvin. And just to adopt the new prefixes.
 
 That would mean:
@@ -51,16 +52,42 @@ That would mean:
 
 But these are actually very minor inconveniencies compared to creating the actual new base units. Let's explore them below.
 
-## Hard approach -- new base SI units
+### Hard approach -- new base SI units
 We can introduce the new SI units by:
 
 * dividing an Earth day by about l  .... .... .... .... ticks (of course, precise definitions have to be like SI ones, just with different numbers). 1 second would be about . , ll.. ..l. ..l. lll. .l.. .l.l .... .ll. such ticks (1 tick = 1.318 359 375 seconds). If such a tick was a quarter note in a 4/4, that would correspond to the tempo of 91.0r2 bpm. 
-* dividing the Speed of Light by 
-We can introduce the new SI units by:
 
-* make an Earth day equal about l shortatick (l .... .... .... .... ticks). 1 day = 256 bytaticks (bytas) = 4,096 hexaticks = 65,536 ticks = 1,048,576 hextoticks. Of course, precise definitions have to be like SI ones, just with different numbers. 1 second would be about . , ll.. ..l. ..l. lll. .l.. .l.l .... .ll. such ticks (1 tick = 1.318 359 375 seconds). If such a tick was a quarter note in a 4/4, that would correspond to the tempo of 91.0r2 bpm. 
-* unify geographic coordinates and distance measurement. Make an Earth meridian arc equal to .,l Colametre. Which means 1 old metre = about 0.8388608 new ones. New metre would be about 1.192 old metres.
+* make an Earth day equal about l shortatick (l .... .... .... .... ticks). 1 day = 256 bytaticks (bytas) = 4,096 hexaticks = 65,536 ticks = 1,048,576 hextoticks. Of course, precise definitions have to be like SI ones, just with different numbers. 1 second would be about . , ll.. ..l. ..l. lll. .l.. .l.l .... .ll. such ticks (1 tick = 1.318 359 375 seconds). If such a tick was a quarter note in a 4/4, that would correspond to the tempo of 91.0r2 bpm.
+
+* Unify geographic coordinates and distance measurement. Make an Earth meridian arc equal to .,l Colametre. Which means 1 old metre = about 0.8388608 new ones. New metre would be about 1.192 old metres.
+* Speed unit would become about: 1 old m/s = 1.10592 new m/tk.
 * 1 old m^3 is approximately equal to .590296 new m^3. 1 old litre would be approximately equal to l. , .ll. l.ll new litres. This would define the new litre to be a cubic hextometre, equal 0.413 59 old litres.
 * Define new grav to be about a mass of the new litre of water, i.e. about 0.413 59 old kg.
 * Ampere, mol, candela, kelvin would be, too, redefined using binary bases, but the original SI spirit and reasoning.
 
+## Example: speedometer
+### Easy approach -- meters per second are kept.
+```
+ | ||..   |. ....   |. .|..
+ | |...  ---------- |. |...
+| .|..  /          \ |. ||..
+| .... |            | || ....
+  ||.. |-           | || .|..
+  |... |-           | || |...
+    |.. \          / || ||..
+       . \        / |.. ....
+             m/s
+```
+
+### Using new m/tk: 
+```
+ | ||..   |. ....   |. .|..
+ | |...  ---------- |. |...
+| .|..  /          \ |. ||..
+| .... |_           | || ....
+  ||.. |            | || .|..
+  |... |-           | || |...
+    |.. \          / || ||..
+       . \        / |.. ....
+             m/s
+```
