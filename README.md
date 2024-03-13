@@ -25,7 +25,7 @@ I am a quantitative developer, striving to be great at both engineering and trad
 - Please write to me [on Telegram](https://t.me/axxeny)
 - Or scroll through my photos [on Instagram](https://instagram.com/axxeny)
 - And add me as a friend [on Facebook](https://facebook.com/axxeny)
-- Read my code [on GitHub](https://github.com/axxeny) (for example the [latinoslav repo](https://github.com/axxeny/latinoslav))
+- Read my code [on GitHub](https://github.com/axxeny) (for example the [latinoslav](https://github.com/axxeny/latinoslav) or [spqru_chrome](https://github.com/axxeny/spqru_chrome) repo)
 - Find my CV [on LinkedIn](https://linkedin.com/in/axxeny)
 
 ## Best of luck!
