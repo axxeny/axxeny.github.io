@@ -1,32 +1,50 @@
-## A warm welcome to Arseniy Poroshin's page 💙
+# Welcome traveller 🦧 It's Arseniy Poroshin
 
-I'd describe myself as a Eurorussian software engineer with a finance spin, striving to grow and to live a healthy and curious life.
+Best life = curiosity, intelligence, sensuality, vivid impressions, and staying young.
 
-### What do you do professionally?
+I'm a software engineer in quantitative finance.
 
-- 💻 I construct software, seeing it from three viewpoints:
-- 📈 I supplement quants with tech expertise to get up and running. That is the data processing viewpoint.
-- 🏗️ I helped building infrastructure for reliable, scalable, maintainable distributed systems. That is the SRE and system design viewpoint.
-- 👾 I enjoy learning & teaching the basics of game development in my spare time. That is the viewpoint of simplicity vs abstraction tradeoff. What is the ideal mixture between procedural data-oriented and hierarchical object-oriented? Do we need encapsulation?
-- 🐍 Mostly I write in Python with scientific batteries.
-- 🤸🏻‍♂️ I always check on and appreciate the concepts underpinning other languages like C, C++, Go, Rust, Haskell, as well as many others.
+## What do you do?
 
-### What is it that you care about?
+I work on quant finance systems, data processing, and reliable infrastructure.
+In tech, I've built the backend for a startup and have been on-call for scaling
+1M RPS infra. Built smooth workflows. Learning management, resource allocation.
 
-- 🧑‍🌾 I would love our society to put more into the research for defeating human ageing. No, it hardly affects overpopulation. No, boredom is a separate issue as well. Let us defeat aging! [A good summarizing talk by Andrew Steele](https://youtu.be/fX9P1xuIJGg)
-- 🎲 I love the probability theory. For example, when considering a distribution of outcomes, pay attention to how catastrophic the worst cases are. Here is a little primer on how to not over-bet on a seemingly positive expected return: [the Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
-- 📈 I am a trading & finance hobbyist. A Quantitative analysis alumnus at [CMF](https://www.linkedin.com/company/cmf-ynvrsty/).
-- あ I love learning languages. Learning new sounds, new alphabets, and new ways of how grammar can work is so much fun to me!
-- 🏞 I love hiking. What could be better than a lovely journey passing by a mountain river at a 2,000 m or a 7,000 ft altitude in warm weather?
-- 🚴‍♂️ Let our towns embrace / Cycling, trams and trains / Making city space / A lovely lively place!
-- 🕊 I am a fan of peace and liberty. Respect our neighbours' freedoms. Recognize what we did wrong. Reconcile to make future right. Repair our shattered kindness.
+I do Python & Bash daily; shipped C++, C#; always paying attention to Go, Rust & more.
 
-### How to reach you?
+## What do you like to think about?
 
-- Please write to me [on Telegram](https://t.me/axxeny)
-- Or scroll through my photos [on Instagram](https://instagram.com/axxeny)
-- And add me as a friend [on Facebook](https://facebook.com/axxeny)
-- Read my code [on GitHub](https://github.com/axxeny) (for example the [latinoslav](https://github.com/axxeny/latinoslav) or [spqru_chrome](https://github.com/axxeny/spqru_chrome) repo)
-- Find my CV [on LinkedIn](https://linkedin.com/in/axxeny)
+- 🎲 Probability theory, risk, and not getting wiped out by the tail
+  of the distribution. EV's not enough.
+  [Kelly](https://en.wikipedia.org/wiki/Kelly_criterion) for the growth-optimal case,
+  fractional Kelly, Taleb and ruin theory for the tail.
+- 📈 Trading and finance. Options are beautiful for seeing risk as distributions.
+  I'm also a Quantitative Analysis alumnus
+  at [CMF](https://www.linkedin.com/company/cmf-ynvrsty/).
+- 💭 Epistemics. I love to learn how the world is, what we are, and how to live
+  with that. [Less Wrong](https://www.lesswrong.com/) has exemplars.
 
-## Thank you for visiting, and Best of luck! 💛
+## What do you do for fun?
+
+- あ Languages, especially sound, pronunciation.
+- 😈 Singing.
+- 🏞 Hiking. Lovely summer journey by a mountain river, 2 km / 6-7 thousand ft up.
+- 👾 Random retro game: Supaplex (1991).
+  [Original levels](https://www.supaplex.online/levels/#supaplex.dat) are fire.
+
+## What do you care about?
+
+- 🧑‍🌾 Let's solve human ageing now. Longer, healthier lives = more time to learn, love,
+  build, explore, and go deeper.
+- 🚴‍♂️ Better towns: walking, cycling, trams, and trains.
+- 🕊 Peace and liberty non-negotiable. You don't know what you've got till it's gone.
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/axxeny)
+- [GitHub](https://github.com/axxeny) (for example the [latinoslav](https://github.com/axxeny/latinoslav) or [spqru_chrome](https://github.com/axxeny/spqru_chrome) repo)
+- Scroll some pics on [Instagram](https://instagram.com/axxeny)
+- Quickest response on [Signal](https://signal.me/#u/axxeny.67)
+  or [Telegram](https://t.me/axxeny)
+
+## Cheers! 💛
