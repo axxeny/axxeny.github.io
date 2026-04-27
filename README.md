@@ -1,6 +1,6 @@
 # Welcome traveller 🦧 It's Arseniy Poroshin
 
-Best life = curiosity, intelligence, sensuality, vivid impressions, and staying young.
+Best life = curiosity, intelligence, vivid impressions, staying young, and rocking it.
 
 I'm a software engineer in quantitative finance.
 
@@ -27,7 +27,7 @@ I do Python & Bash daily; shipped C++, C#; always paying attention to Go, Rust &
 ## What do you do for fun?
 
 - あ Languages, especially sound, pronunciation.
-- 😈 Singing.
+- 😈 Singing. [The Zen of Screaming](https://www.youtube.com/results?search_query=zen+of+screaming)
 - 🏞 Hiking. Lovely summer journey by a mountain river, 2 km / 6-7 thousand ft up.
 - 👾 Random retro game: Supaplex (1991).
   [Original levels](https://www.supaplex.online/levels/#supaplex.dat) are fire.
