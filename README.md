@@ -42,7 +42,7 @@ I do Python & Bash daily; shipped C++, C#; always paying attention to Go, Rust &
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/axxeny)
-- [GitHub](https://github.com/axxeny) (for example the [latinoslav](https://github.com/axxeny/latinoslav) or [spqru_chrome](https://github.com/axxeny/spqru_chrome) repo)
+- [GitHub](https://github.com/axxeny) (for example the [commandments](https://github.com/axxeny/commandments), [latinoslav](https://github.com/axxeny/latinoslav) or [spqru_chrome](https://github.com/axxeny/spqru_chrome) repo)
 - Scroll some pics on [Instagram](https://instagram.com/axxeny)
 - Quickest response on [Signal](https://signal.me/#u/axxeny.67)
   or [Telegram](https://t.me/axxeny)
